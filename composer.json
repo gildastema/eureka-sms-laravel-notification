@@ -45,10 +45,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Gildastema\\EurekaSmsNotification\\EurekaSmsNotificationServiceProvider"
+                "Eureka\\SMS\\EurekaSmsNotificationServiceProvider"
             ],
             "aliases": {
-                "EurekaSmsNotification": "Gildastema\\EurekaSmsNotification\\EurekaSmsNotificationFacade"
+                "EurekaSmsNotification": "Eureka\\SMS\\EurekaSmsNotificationFacade"
             }
         }
     }
